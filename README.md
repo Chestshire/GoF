@@ -1,4 +1,5 @@
-# GoF Used to store Go Files
+# GoF 
+Used to store Go Files
 
 Created at <2018.9.25>
 
